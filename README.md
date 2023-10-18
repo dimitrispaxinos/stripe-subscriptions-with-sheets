@@ -26,6 +26,6 @@ If you have suggestions or improvements, feel free to fork this repository and c
 
 ## 📞 Contact & Support
 
-Encounter any challenges or have questions? Drop a comment on our [video](YOUR_VIDEO_LINK_HERE) or reach out to us at Apptiva. We specialize in automating manual processes and integrating external APIs, especially within the Google Workspace.
+Encounter any challenges or have questions? Drop a comment on our [video](https://youtu.be/m4r2hCpCDL4) or reach out to us at Apptiva. We specialize in automating manual processes and integrating external APIs, especially within the Google Workspace.
 
 🔗 [Get in touch with Apptiva](https://apptivasoftware.com/contact)
