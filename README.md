@@ -12,7 +12,7 @@ For a detailed step-by-step guide on setting up and using this solution, please 
 
 If you prefer a visual guide, check out our video walkthrough that covers the setup on the Stripe Dashboard, an overview of the solution on Google Sheets, and a technical deep dive:
 
-🔗 [Automate Customer Recurring Billing with Stripe and Google Sheets - Video Guide](YOUR_VIDEO_LINK_HERE)
+🔗 [Automate Customer Recurring Billing with Stripe and Google Sheets - Video Guide](https://youtu.be/m4r2hCpCDL4)
 
 ## 🚀 Getting Started
 
